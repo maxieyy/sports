@@ -21,7 +21,7 @@ https://cdn-live.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnliv
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="US",beIN SPORTS 2
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-3.webp" group-title="US",beIN SPORTS 3
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="US",beIN SPORTS 3
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg" group-title="US",beIN SPORTS MENA 1
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
@@ -333,7 +333,7 @@ https://cdn-live.tv/api/v1/channels/player/?name=tsn+5&code=ca&user=cdnlivetv&pl
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="FR",beIN SPORTS 2
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-3.webp" group-title="FR",beIN SPORTS 3
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="FR",beIN SPORTS 3
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+3&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-max-4.svg" group-title="FR",beIN SPORTS MAX 4
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
@@ -909,9 +909,9 @@ https://cdn-live.tv/api/v1/channels/player/?name=prima+sport+4&code=ro&user=cdnl
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="TR",beIN SPORTS 2
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=tr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-3.webp" group-title="TR",beIN SPORTS 3
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="TR",beIN SPORTS 3
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+3&code=tr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-4.svg" group-title="TR",beIN SPORTS 4
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-4.svg" group-title="TR",beIN SPORTS 4
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+4&code=tr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/trt-1.png" group-title="TR",TRT 1
 https://cdn-live.tv/api/v1/channels/player/?name=trt+1&code=tr&user=cdnlivetv&plan=free
@@ -955,9 +955,9 @@ https://cdn-live.tv/api/v1/channels/player/?name=starzplay+sports+2&code=ae&user
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg" group-title="SA",beIN SPORTS 2
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-3.webp" group-title="SA",beIN SPORTS 3
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp" group-title="SA",beIN SPORTS 3
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-4.svg" group-title="SA",beIN SPORTS 4
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-4.svg" group-title="SA",beIN SPORTS 4
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-5.svg" group-title="SA",beIN SPORTS 5
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+5&code=sa&user=cdnlivetv&plan=free
