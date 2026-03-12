@@ -407,7 +407,7 @@ https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnl
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-1.png" group-title="ES",DAZN 1
 https://cdn-live.tv/api/v1/channels/player/?name=dazn+1&code=es&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/dazn-2.png" group-title="ES",DAZN 2
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-2.png" group-title="ES",DAZN 2
 https://cdn-live.tv/api/v1/channels/player/?name=dazn+2&code=es&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-3.png" group-title="ES",DAZN 3
 https://cdn-live.tv/api/v1/channels/player/?name=dazn+3&code=es&user=cdnlivetv&plan=free
@@ -523,7 +523,7 @@ https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=cdnl
 https://cdn-live.tv/api/v1/channels/player/?name=das+erste&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-1.png" group-title="DE",DAZN 1
 https://cdn-live.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/dazn-2.png" group-title="DE",DAZN 2
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-2.png" group-title="DE",DAZN 2
 https://cdn-live.tv/api/v1/channels/player/?name=dazn+2&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/rtl.svg" group-title="DE",RTL
 https://cdn-live.tv/api/v1/channels/player/?name=rtl&code=de&user=cdnlivetv&plan=free
@@ -589,7 +589,7 @@ https://cdn-live.tv/api/v1/channels/player/?name=zdf+info&code=de&user=cdnlivetv
 https://cdn-live.tv/api/v1/channels/player/?name=benfica+tv&code=pt&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-1.png" group-title="PT",DAZN 1
 https://cdn-live.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/dazn-2.png" group-title="PT",DAZN 2
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-2.png" group-title="PT",DAZN 2
 https://cdn-live.tv/api/v1/channels/player/?name=dazn+2&code=pt&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-3.png" group-title="PT",DAZN 3
 https://cdn-live.tv/api/v1/channels/player/?name=dazn+3&code=pt&user=cdnlivetv&plan=free
