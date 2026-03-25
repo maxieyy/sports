@@ -265,7 +265,7 @@ https://cdn-live.tv/api/v1/channels/player/?name=stan+sport+19&code=au&user=cdnl
 https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/austria/sky-sport-2.svg" group-title="NZ",Sky Sport 2
 https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-3.svg" group-title="NZ",Sky Sport 3
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-3.png" group-title="NZ",Sky Sport 3
 https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-4.svg" group-title="NZ",Sky Sport 4
 https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
@@ -273,7 +273,7 @@ https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnliv
 https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-6.svg" group-title="NZ",Sky Sport 6
 https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-7.svg" group-title="NZ",Sky Sport 7
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-7.png" group-title="NZ",Sky Sport 7
 https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+7&code=nz&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-8.svg" group-title="NZ",Sky Sport 8
 https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+8&code=nz&user=cdnlivetv&plan=free
@@ -407,7 +407,7 @@ https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnl
 https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-1.png" group-title="ES",DAZN 1
 https://cdn-live.tv/api/v1/channels/player/?name=dazn+1&code=es&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-2.png" group-title="ES",DAZN 2
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/dazn-2.png" group-title="ES",DAZN 2
 https://cdn-live.tv/api/v1/channels/player/?name=dazn+2&code=es&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-3.png" group-title="ES",DAZN 3
 https://cdn-live.tv/api/v1/channels/player/?name=dazn+3&code=es&user=cdnlivetv&plan=free
@@ -523,7 +523,7 @@ https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=cdnl
 https://cdn-live.tv/api/v1/channels/player/?name=das+erste&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-1.png" group-title="DE",DAZN 1
 https://cdn-live.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-2.png" group-title="DE",DAZN 2
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/dazn-2.png" group-title="DE",DAZN 2
 https://cdn-live.tv/api/v1/channels/player/?name=dazn+2&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/rtl.svg" group-title="DE",RTL
 https://cdn-live.tv/api/v1/channels/player/?name=rtl&code=de&user=cdnlivetv&plan=free
@@ -531,7 +531,7 @@ https://cdn-live.tv/api/v1/channels/player/?name=rtl&code=de&user=cdnlivetv&plan
 https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+1&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/austria/sky-sport-2.svg" group-title="DE",Sky Sport 2
 https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+2&code=de&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-3.svg" group-title="DE",Sky Sport 3
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-3.png" group-title="DE",Sky Sport 3
 https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+3&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-4.svg" group-title="DE",Sky Sport 4
 https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+4&code=de&user=cdnlivetv&plan=free
@@ -539,7 +539,7 @@ https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+4&code=de&user=cdnliv
 https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+5&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-6.svg" group-title="DE",Sky Sport 6
 https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+6&code=de&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-7.svg" group-title="DE",Sky Sport 7
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-7.png" group-title="DE",Sky Sport 7
 https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+7&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-8.svg" group-title="DE",Sky Sport 8
 https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+8&code=de&user=cdnlivetv&plan=free
@@ -589,7 +589,7 @@ https://cdn-live.tv/api/v1/channels/player/?name=zdf+info&code=de&user=cdnlivetv
 https://cdn-live.tv/api/v1/channels/player/?name=benfica+tv&code=pt&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-1.png" group-title="PT",DAZN 1
 https://cdn-live.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-2.png" group-title="PT",DAZN 2
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/dazn-2.png" group-title="PT",DAZN 2
 https://cdn-live.tv/api/v1/channels/player/?name=dazn+2&code=pt&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-3.png" group-title="PT",DAZN 3
 https://cdn-live.tv/api/v1/channels/player/?name=dazn+3&code=pt&user=cdnlivetv&plan=free
@@ -771,7 +771,7 @@ https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnli
 https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/sk-3.png.webp" group-title="RS",Sport Klub 3
 https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/sk-4.png.webp" group-title="RS",Sport Klub 4
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-4.png.webp" group-title="RS",Sport Klub 4
 https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp" group-title="HR",Arena Sport 1
 https://cdn-live.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
@@ -801,7 +801,7 @@ https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+1&code=hr&user=cdnli
 https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+2&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/sk-3.png.webp" group-title="HR",Sport Klub 3
 https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+3&code=hr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/sk-4.png.webp" group-title="HR",Sport Klub 4
+#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-4.png.webp" group-title="HR",Sport Klub 4
 https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+4&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/sk-golf.png.webp" group-title="HR",Sport Klub Golf
 https://cdn-live.tv/api/v1/channels/player/?name=sport+klub+golf&code=hr&user=cdnlivetv&plan=free
